@@ -11,6 +11,11 @@ header{
 	 height: 96vh;
 }
 
+iframe {
+   display: block;
+   margin: 0 auto;
+}
+
 .margin-title{
 	margin-top: 40vh;
 }
