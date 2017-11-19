@@ -1,0 +1,73 @@
+body{
+	background-color:#BEDFFF;
+}
+
+header{
+	background: url('../img/bauble.jpeg') no-repeat center center; 
+	 -webkit-background-size: cover;
+	 -moz-background-size: cover;
+	 -o-background-size: cover;
+	 background-size: cover;
+	 height: 96vh;
+}
+
+.margin-title{
+	margin-top: 40vh;
+}
+
+.cornsilk{
+	background-color:cornsilk;
+}
+
+.silver{
+	background-color:silver;
+}
+
+.margin-top{
+	margin-top: 50px;
+}
+
+h1{
+	color: maroon;
+	font-size: 26px;
+	font-family: nunito;
+}
+
+p{
+	color: navy;
+	padding-top: 10px;
+	font-family: nunito;
+}
+
+
+h2{
+	color: gray;
+	font-size: 26px;
+	font-family: 'Nunito', sans-serif;
+	background-color: #E6FFDE;
+}
+
+.red-reading {
+	width: 30%;
+	background-color: red;
+}
+
+.green-writing{
+	width: 50%;
+	background-color: green;
+}
+
+.purple-singing{
+	width: 2%
+	background-color: purple;
+}
+
+.mint-background{
+	background-color: #E6FFDE;
+}
+
+
+
+
+
+
